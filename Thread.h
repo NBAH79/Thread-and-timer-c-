@@ -1,5 +1,5 @@
 #pragma once
-#include "base.h"
+#include "stdafx.h"
 /*
 template<class T, void(T::*mem_fun)()>
 inline void thread_to_member(void* p)
